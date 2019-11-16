@@ -1,4 +1,4 @@
-"# FullStackOpen2019" 
+# FullStackOpen2019
 
 This repository was created to publish the exercises needed to complete the MOOC called "Full Stack Open 2019", created by the Unisersity of Helsinky, Houston Inc and a couple of other partners and collaborators.
 
